@@ -5,10 +5,9 @@ The project could work with the strutures of *OpenCV 2.4.13*.
 # How to use
 run `build.sh` in terminal
 
-#Example
-<p align="center>
-<img src="./ori_tree.jpg" alt="original image"/>
+# Example
 
-<img src="./tree.jpg" alt="with superpixels"/>
+![](./ori_tree.jpg)
 
-</p>
+
+![](./tree.jpg)
