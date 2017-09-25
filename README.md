@@ -6,9 +6,9 @@ The project could work with the strutures of *OpenCV 2.4.13*.
 run `build.sh` in terminal
 
 #Example
-for an original image like,
-	![here](./ori_tree.jpg)
-	
-you can create an image like,
-	![here](./tree.jpg)
+<p align="center>
+<img src="./ori_tree.jpg" alt="original image"/>
 
+<img src="./tree.jpg" alt="with superpixels"/>
+
+</p>
